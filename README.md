@@ -59,11 +59,13 @@ END
 
 ## OUTPUT
 
+<img width="1371" height="712" alt="Screenshot 2025-11-19 085542" src="https://github.com/user-attachments/assets/6e2e144f-2a89-4b0d-8776-6e6f677051d1" />
 
-<img width="1920" height="1200" alt="sk1 1" src="https://github.com/user-attachments/assets/334820b1-e4fd-4c62-bde1-ee64a1df7813" />
 
 
-<img width="1920" height="1200" alt="sk1 2" src="https://github.com/user-attachments/assets/46f563d2-3c29-4ddb-a7ad-9759b9b473fc" />
+<img width="1402" height="629" alt="Screenshot 2025-11-19 085753" src="https://github.com/user-attachments/assets/19df1bbf-ac0b-4599-986f-162674b7bd7c" />
+
+
 
 
 
